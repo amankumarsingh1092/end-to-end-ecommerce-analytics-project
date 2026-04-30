@@ -1,4 +1,4 @@
-# 📊 End-to-End E-Commerce Analytics Project
+# End-to-End E-Commerce Analytics Project
 
 ## 📌 Overview
 
