@@ -1,13 +1,15 @@
 # End-to-End E-Commerce Analytics Project
 <img width="1692" height="930" alt="ChatGPT Image Apr 30, 2026, 06_25_01 PM" src="https://github.com/user-attachments/assets/5d2e229d-e41c-43cb-becf-079b0e8fea2e" />
 
-## 📌 Overview
+## 🎯 Objective
 
-This project presents a complete **end-to-end data analytics pipeline** using **Python, SQL, and Power BI** to analyze e-commerce sales performance, customer behavior, and profitability.
+This project aims to build a complete **end-to-end data analytics pipeline** using **Python, SQL, and Power BI** to analyze e-commerce sales performance, customer behavior, and overall business profitability.
 
-The goal is to transform raw transactional data into **actionable business insights** through data cleaning, querying, and interactive dashboarding.
+The primary objective is to transform raw transactional data into **meaningful and actionable insights** by performing data cleaning, feature engineering, and structured data modeling. Through SQL-based querying and analysis, the project extracts key business metrics such as revenue trends, customer segments, and operational performance.
 
----
+Additionally, the project focuses on designing **interactive and insightful dashboards** in Power BI to support data-driven decision-making. It helps identify patterns in customer purchasing behavior, evaluate the impact of discounts on profitability, and analyze how delivery performance affects return rates.
+
+Overall, the goal is to demonstrate how data analytics can be used to **optimize business strategies, improve operational efficiency, and enhance profitability in an e-commerce environment**.
 
 ## ⚙️ Tech Stack
 
