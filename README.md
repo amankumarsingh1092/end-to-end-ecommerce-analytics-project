@@ -61,7 +61,10 @@ The goal is to transform raw transactional data into **actionable business insig
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+<img width="1128" height="638" alt="Screenshot 2026-04-30 172425" src="https://github.com/user-attachments/assets/98657497-5ce0-475e-b9f0-e90fa9fbcd09" />
+<img width="1130" height="640" alt="Screenshot 2026-04-30 172444" src="https://github.com/user-attachments/assets/f9841828-c585-4a0a-bd65-daa193a3ab8c" />
+<img width="1131" height="640" alt="Screenshot 2026-04-30 172507" src="https://github.com/user-attachments/assets/ded8694c-7386-49eb-8c9d-8988c5ae3253" />
+
 
 ---
 
