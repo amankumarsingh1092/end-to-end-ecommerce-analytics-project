@@ -67,24 +67,26 @@ The goal is to transform raw transactional data into **actionable business insig
 
 ## 📁 Project Structure
 
+```
 end-to-end-ecommerce-analytics-project/
 │
 ├── data/
-│ └── ecommerce_data.csv
+│   └── ecommerce_data.csv
 │
 ├── python/
-│ └── ecommerce_analysis.ipynb
+│   └── ecommerce_analysis.ipynb
 │
 ├── sql/
-│ └── ecommerce_queries.sql
+│   └── ecommerce_queries.sql
 │
 ├── powerbi/
-│ └── ecommerce_dashboard.pbix
+│   └── ecommerce_dashboard.pbix
 │
 ├── images/
-│ └── dashboard_preview.png
+│   └── dashboard_preview.png
 │
 └── README.md
+```
 
 ---
 
