@@ -1,4 +1,5 @@
 # End-to-End E-Commerce Analytics Project
+<img width="1692" height="930" alt="ChatGPT Image Apr 30, 2026, 06_25_01 PM" src="https://github.com/user-attachments/assets/5d2e229d-e41c-43cb-becf-079b0e8fea2e" />
 
 ## 📌 Overview
 
