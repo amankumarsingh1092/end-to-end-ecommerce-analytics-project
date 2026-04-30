@@ -110,3 +110,9 @@ By integrating Python, SQL, and Power BI, this project showcases a **complete an
 ## 🔖 Tags
 
 `python` `sql` `powerbi` `data-analysis` `dashboard` `ecommerce`
+
+## Author
+* Aman Kumar Singh
+* www.linkedin.com/in/aman-kumar-singh-71a090206
+* aksingh1652@gmail.com
+
