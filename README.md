@@ -60,6 +60,16 @@ The goal is to transform raw transactional data into **actionable business insig
 
 ---
 
+## 🔍 Workflow Snapshots
+
+### 📸 Key Process Screenshots
+
+#### 🐍 Python Data Processing
+<img width="1146" height="430" alt="Screenshot 2026-04-30 183612" src="https://github.com/user-attachments/assets/1585c61b-5752-4279-aee4-2af06b1712b6" />
+
+#### 🛢 SQL Data Modeling & Queries
+<img width="617" height="494" alt="Screenshot 2026-04-30 183208" src="https://github.com/user-attachments/assets/68f97c95-0d9f-4f26-bb3d-d900dc530e34" />
+
 ## 📷 Dashboard Preview
 
 <img width="1128" height="638" alt="Screenshot 2026-04-30 172425" src="https://github.com/user-attachments/assets/98657497-5ce0-475e-b9f0-e90fa9fbcd09" />
